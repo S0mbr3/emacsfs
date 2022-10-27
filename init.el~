@@ -1,0 +1,6 @@
+;; Turn off some unneeded UI elements
+(setq inihibit-startup-message t)
+(menu-bar-mode -1)
+(scroll-bar-mode -1)
+
+;;Display line numbers in every buffer
